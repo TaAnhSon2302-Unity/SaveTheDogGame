@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Dog
+  - Line
+  - Obstacle
+  - Bee
+  - Spike
+  - Water
+  - ToxicWater
+  - BorderLine
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Background
+  - Water
+  - UI
+  - Bee
+  - Water
+  - Line
+  - BorderLine
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1071107973
+    locked: 0
+  - name: Object
+    uniqueID: 3703726909
+    locked: 0
+  - name: UI
+    uniqueID: 3937749255
+    locked: 0
